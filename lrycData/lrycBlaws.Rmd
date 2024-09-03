@@ -15,7 +15,7 @@ author: |
   | _____________________________________ 
 date: |
   |             
-  | Approved/Revised: April 18, 2024 
+  | Approved/Revised: September 3, 2024 
 header-includes:
 - \usepackage{caption}
 - \pagenumbering{gobble}
@@ -102,7 +102,7 @@ E. A copy of the bylaws shall be available for inspection by any member at any m
 
 # Article 5 - Dues 
 
-A. Dues shall be paid annually on or before the member's anniversary date in the amounts set by the Board of Directors. 
+A. Dues shall be paid annually on or before the member's anniversary date in the amounts set by the Board of Directors. No dues shall be charged for youth who have participated in NICA league activities in the previous or current year.
 
 B. All dues for prospective members shall be paid to the Club. 
 
@@ -150,7 +150,7 @@ A. Place of meetings
 
 B. Frequency of meetings 
 
-   1. Meetings to be held at least one (1) time per year, but not more than montly and with a maximum interval of two (2) months. 
+   1. Meetings to be held at least one (1) time per year, but not more than monthly. 
    
 C. Notice of meeting to members 
 
