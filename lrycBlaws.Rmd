@@ -4,18 +4,18 @@ author: |
   | _____________________________________ 
   |                            
   |                            
-  | lryc.org
   | 
-  | Mailing Address
+  | 
+  | 
   |
-  | Little Rock Youth Cycling
-  | PO BOX 12345                           
-  | Little Rock, AR 72205                  
+  | 
+  |                   
+  | 
   |                                     
   | _____________________________________ 
 date: |
   |             
-  | Approved/Revised: September 13, 2024 
+  | Approved/Revised: March 4, 2025 
 header-includes:
 - \usepackage{caption}
 - \pagenumbering{gobble}
